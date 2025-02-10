@@ -52,7 +52,7 @@ Here are some ideas to get you started:
       içerik 1
     </td>
     <td>
-      İçerik 2
+      İçerik 6
     </td>
     <td>
       İçerik 5
