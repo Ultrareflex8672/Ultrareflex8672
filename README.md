@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="www.mtkproje.com" target="_blank">
 <img src="https://www.mtkproje.com/images/mtk_banner-degre-new-only-mtk-proje.png">
 <br>
-<font color="#38456"><b>Visit MTK Proje</b></font>
+<font color="#ff0000"><b>Visit MTK Proje</b></font>
 </a>
 
 </div>
