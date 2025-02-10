@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h1>New Title</h1>
+<h1>MTK Proje</h1>
 
 
 <a href="www.mtkproje.com">Visit MTK Proje</a>
