@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <h1>MTK Proje</h1>
 
 
-<a href="www.mtkproje.com">Visit MTK Proje</a>
+<a href="www.mtkproje.com" target="_blank">Visit MTK Proje</a>
