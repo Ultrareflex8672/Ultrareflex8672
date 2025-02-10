@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+<div align="center" id="title">
 <h1>MTK Proje</h1>
 
+<a href="www.mtkproje.com" target="_blank">
+<img src="https://www.mtkproje.com/images/mtk_banner-degre-new-only-mtk-proje.png">
+<br>
+<font color="#FFFFF"><b>Visit MTK Proje</b></font>
+</a>
 
-<a href="www.mtkproje.com" target="_blank">Visit MTK Proje</a>
+</div>
