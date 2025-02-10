@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <div align="center" id="title">
-<h1>MTK Proje</h1>
+<h1><font color="#ff0000">MTK Proje</font></h1>
 
 <a href="www.mtkproje.com" target="_blank">
 <img src="https://www.mtkproje.com/images/mtk_banner-degre-new-only-mtk-proje.png">
