@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center" id="title">
 <h1><font color="red">MTK Proje</font></h1>
 
-<a href="www.mtkproje.com" target="_blank">
+<a href="https://www.mtkproje.com" target="_blank">
 <img src="https://www.mtkproje.com/images/mtk_banner-degre-new-only-mtk-proje.png">
 <br>
 <font color="#ff0000"><b>Visit MTK Proje</b></font>
