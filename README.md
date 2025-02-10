@@ -55,7 +55,7 @@ Here are some ideas to get you started:
       İçerik 2
     </td>
     <td>
-      İçerik 3
+      İçerik 5
     </td>
   </tr>
   
