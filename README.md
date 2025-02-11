@@ -7,6 +7,12 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ultareflex8672&label=Profile%20views&color=0e75b6&style=flat" alt="ultareflex8672" /> </p>
 
+<hr>
+<h2 align="center">Python Expert Certified with Excellence by Vectorel Academy</h2>
+<p align="center"> <a href="https://www.vektorelbilisim.com/" target="_blank"><img src="https://www.ultrareflex.com/files/github/icons/vektorel-certificate.png" alt="Expert of Python" width="512" height="512"/></a> </p>
+<hr>
+<br>
+<h3 align="left">About Me:</h3>
 <p align="center"> <a href="https://www.ultrareflex.com" target="_blank"><img src="https://www.ultrareflex.com/files/github/icons/IMG_20190726_115754.jpg" alt="Ultareflex8672 (Kemal Burak YILDIRIM) and Türkiye's national fighter jet KAAN" style="border-radius: 10px;max-width: 100%;height: auto;transform: scaleX(-1);"></a> </p>
 
 <!-- - 🔭 I’m currently working on [Pname](purl) -->
@@ -28,7 +34,7 @@
 - ⚡ Fun fact **def hayat(self): return 'Kodlama! 🧑‍💻**
 
   <img src="https://www.ultrareflex.com/files/github/icons/3BBS.gif"/>
-
+<hr>
 <br>
 <br>
 
