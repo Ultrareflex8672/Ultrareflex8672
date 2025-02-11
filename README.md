@@ -2,14 +2,14 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Kemal Burak YILDIRIM from Türkiye <a href="https://www.turkiye.gov.tr/" target="_blank"><img src="https://www.ultrareflex.com/files/github/icons/tr.png" height="5%" width="5%"/></a></h1>
+<h1 align="center">Hi 👋, I'm Kemal Burak YILDIRIM from Türkiye <a href="https://www.turkiye.gov.tr/" target="_blank"><img src="https://www.ultrareflex.com/files/github/icons/tr.png" height="22"/></a></h1>
 <h3 align="center">Passionate about full-stack development with PHP, Python, JavaScript, and MySQL 🚀</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ultareflex8672&label=Profile%20views&color=0e75b6&style=flat" alt="ultareflex8672" /> </p>
 
 <hr>
 <h2 align="center">Python Expert Certified with Excellence by Vectorel Academy</h2>
-<p align="center"> <a href="https://www.vektorelbilisim.com/" target="_blank"><img src="https://www.ultrareflex.com/files/github/icons/vektorel-certificate.png" alt="Expert of Python" width="512" height="512"/></a> </p>
+<p align="center"> <a href="https://www.vektorelbilisim.com/" target="_blank"><img src="https://www.ultrareflex.com/files/github/icons/vektorel-certificate.png" alt="Expert of Python"/></a> </p>
 <hr>
 <br>
 <h3 align="left">About Me:</h3>
