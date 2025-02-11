@@ -1,9 +1,13 @@
+
+
+
+
 <h1 align="center">Hi 👋, I'm Kemal Burak YILDIRIM from Türkiye <a href="https://www.turkiye.gov.tr/" target="_blank"><img src="https://www.ultrareflex.com/files/github/icons/tr.png" height="5%" width="5%"/></a></h1>
 <h3 align="center">Passionate about full-stack development with PHP, Python, JavaScript, and MySQL 🚀</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ultareflex8672&label=Profile%20views&color=0e75b6&style=flat" alt="ultareflex8672" /> </p>
 
-<p align="center"> <a href="https://www.ultrareflex.com" target="_blank"><img src="https://www.ultrareflex.com/files/github/icons/IMG_20190726_115754.jpg" alt="ultareflex8672" /></a> </p>
+<p align="center"> <a href="https://www.ultrareflex.com" target="_blank"><img src="https://www.ultrareflex.com/files/github/icons/IMG_20190726_115754.jpg" alt="ultareflex8672" style="border-radius: 10px;max-width: 100%;height: auto;transform: scaleX(-1);"></a> </p>
 
 <!-- - 🔭 I’m currently working on [Pname](purl) -->
 
