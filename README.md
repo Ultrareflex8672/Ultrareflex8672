@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **PHP, Python, JavaScript, HTML, MySQL and similar DB**
 
-- 📫 How to reach me **ultrareflex@ultrareflex.com 📧**
+- 📫 How to reach me <a href="mailto:ultrareflex@ultrareflex.com"><b>ultrareflex@ultrareflex.com 📧</b></a>
 
 - 📄 Know about my experiences [**Download PDF 💾**](https://www.ultrareflex.com/files/Kemal-Burak-YILDIRIM-CV-D.pdf)
 
