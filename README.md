@@ -64,7 +64,7 @@
   </tr>
 </table>
 <hr>
-<h3 align="left">FAI/ML:</h3>
+<h3 align="left">AI/ML:</h3>
 <table>
   <tr>
     <td>
