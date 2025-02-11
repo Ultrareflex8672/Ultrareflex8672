@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ultareflex8672&label=Profile%20views&color=0e75b6&style=flat" alt="ultareflex8672" /> </p>
 
-<p align="center"> <a href="https://www.ultrareflex.com" target="_blank"><img src="https://www.ultrareflex.com/files/github/icons/github-profil-pic.png" alt="ultareflex8672" /></a> </p>
+<p align="center"> <a href="https://www.ultrareflex.com" target="_blank"><img src="https://www.ultrareflex.com/files/github/icons/IMG_20190726_115754.jpg" alt="ultareflex8672" /></a> </p>
 
 <!-- - 🔭 I’m currently working on [Pname](purl) -->
 
