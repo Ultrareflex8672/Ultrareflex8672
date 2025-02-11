@@ -5,21 +5,21 @@
 
 <p align="center"> <a href="https://www.ultrareflex.com" target="_blank"><img src="https://www.ultrareflex.com/files/github/icons/github-profil-pic.png" alt="ultareflex8672" /></a> </p>
 
-- 🔭 I’m currently working on [Pname](purl)
+<!-- - 🔭 I’m currently working on [Pname](purl) -->
 
 - 🌱 I’m currently learning **Artificial Intelligence with Python Libraries**
 
-- 👯 I’m looking to collaborate on [Pname](purl)
+<!-- - 👯 I’m looking to collaborate on [Pname](purl)
 
 - 🤝 I’m looking for help with [Pname](purl)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ultrareflex8672?tab=projects](https://github.com/Ultrareflex8672?tab=projects)
+- 👨‍💻 All of my projects are available at [**Ultrareflex8672's Projects at Githup**](https://github.com/Ultrareflex8672?tab=projects) -->
 
 - 💬 Ask me about **PHP, Python, JavaScript, HTML, MySQL and similar DB**
 
-- 📫 How to reach me **ultrareflex@ultrareflex.com**
+- 📫 How to reach me **ultrareflex@ultrareflex.com 📧**
 
-- 📄 Know about my experiences [https://www.ultrareflex.com/files/Kemal-Burak-YILDIRIM-CV-D.pdf](https://www.ultrareflex.com/files/Kemal-Burak-YILDIRIM-CV-D.pdf)
+- 📄 Know about my experiences [**Download PDF 💾**](https://www.ultrareflex.com/files/Kemal-Burak-YILDIRIM-CV-D.pdf)
 
 - ⚡ Fun fact **def hayat(self): return 'Kodlama! 🧑‍💻**
 
@@ -64,38 +64,84 @@
   </tr>
 </table>
 <hr>
+<h3 align="left">FAI/ML:</h3>
+<table>
+  <tr>
+    <td>
+      <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+    </td>
+    <td>
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+    </td>
+    <td>
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  
+    </td>
+    <td>
+     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+    </td>
+  </tr>
+</table>
+<hr>
+<h3 align="left">Database:</h3>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+    </td>
+    <td>
+      <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+    </td>
+    <td>
+     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+    </td>
+    <td>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+    </td>
+  </tr>
+</table>
+<hr>
+<h3 align="left">Framework:</h3>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/django.svg" alt="django" width="40" height="40"/> </a> 
+    </td>
+    <td>
+      <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+    </td>
+    <td>
+      <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
+    </td>
+  </tr>
+</table>
+<hr>
+<h3 align="left">Devops:</h3>
+<table>
+  <tr>
+    <td>
+      <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+    </td>
+  </tr>
+</table>
+<hr>
+<h3 align="left">Other:</h3>
+<table>
+  <tr>
+    <td>
+     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+    </td>
+    <td>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    </td>
+  </tr>
+</table>
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-   
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> 
-  
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  
-  
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-   
-  
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  
-  
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.ultrareflex.com/files/github/icons/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/ultrareflexofcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ultrareflexofcl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kemalburakyildirim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemalburakyildirim" height="30" width="40" /></a>
 <a href="https://fb.com/ultrareflex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ultrareflex" height="30" width="40" /></a>
