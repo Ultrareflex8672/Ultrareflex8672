@@ -78,6 +78,9 @@
 <table>
   <tr>
     <td>
+      <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.hizmetimiz.com/files/github/icons/numpy.svg" alt="numpy" width="40" height="40"/> </a> 
+    </td
+    <td>
       <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.hizmetimiz.com/files/github/icons/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
     </td>
     <td>
