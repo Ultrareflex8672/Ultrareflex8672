@@ -89,6 +89,9 @@
     <td>
      <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.hizmetimiz.com/files/github/icons/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
     </td>
+    <td>
+     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://www.hizmetimiz.com/files/github/icons/scikit_learn.svg" alt="scikit learn" width="40" height="40"/> </a> 
+    </td>
   </tr>
 </table>
 <hr>
