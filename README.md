@@ -18,7 +18,7 @@
     <td width="50%" valign="top">
       <h2 align="center">Certified by the ICT Agency of the Republic of Türkiye</h2>
       <p align="center"> <a href="https://www.vektorelbilisim.com/" target="_blank"><img src="https://www.hizmetimiz.com/files/github/icons/btk_sertifika2.png" alt="Expert of Python, PHP, Git" width="90%"/></a> </p>
-      <p><b>Certificate content:</b><br> Advanced Python Programming Language, Web Application Development with PHP 8, Version Controls Git and GitHub, Advanced Network Technologies</p>
+      <p><b>Certificate content:</b><br> Advanced Python Programming Language (OOP, Socket Programming, Multitasking, Multiprocessing), Web Application Development with PHP 8 (OOP, MySQL, PHP PDO, Laravel, Codeigniter) Version Controls Git and GitHub, Advanced Network Technologies</p>
     </td>
     </tr>
 </table>
