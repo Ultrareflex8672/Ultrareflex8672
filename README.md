@@ -8,8 +8,20 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ultareflex8672&label=Profile%20views&color=0e75b6&style=flat" alt="ultareflex8672" /> </p>
 
 <hr>
-<h2 align="center">Python Expert Certified with Excellence by Vectorel Academy</h2>
-<p align="center"> <a href="https://www.vektorelbilisim.com/" target="_blank"><img src="https://www.hizmetimiz.com/files/github/icons/vektorel-certificate.png" alt="Expert of Python"/></a> </p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h2 align="center">Python Expert Certified with Excellence by Vectorel Academy</h2>
+      <p align="center"> <a href="https://www.vektorelbilisim.com/" target="_blank"><img src="https://www.hizmetimiz.com/files/github/icons/vektorel-certificate.png" alt="Expert of Python"/></a> </p>
+      <p><b>Certificate content:</b><br> Python Programming, OOP, PyQt, HTML5, CSS3, SQL, Django</p>
+    </td>
+    <td width="50%" valign="top">
+      <h2 align="center">Certified by the ICT Agency of the Republic of Türkiye</h2>
+      <p align="center"> <a href="https://www.vektorelbilisim.com/" target="_blank"><img src="https://www.hizmetimiz.com/files/github/icons/btk_sertifika2.png" alt="Expert of Python, PHP, Git" width="90%"/></a> </p>
+      <p><b>Certificate content:</b><br> Advanced Python Programming Language, Web Application Development with PHP 8, Version Controls Git and GitHub, Advanced Network Technologies</p>
+    </td>
+    </tr>
+</table>
 <hr>
 <br>
 <h3 align="left">About Me:</h3>
