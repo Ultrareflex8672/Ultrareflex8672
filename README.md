@@ -41,7 +41,7 @@
 
 - 📫 How to reach me <a href="mailto:ultrareflex@ultrareflex.com"><b>ultrareflex@ultrareflex.com 📧</b></a>
 
-- 📄 Know about my experiences [**Download PDF 💾**](https://www.hizmetimiz.com/files/Kemal-Burak-YILDIRIM-CV-D.pdf)
+- 📄 Know about my experiences [**Download PDF 💾**](https://github.com/Ultrareflex8672/Ultrareflex8672/blob/main/kemal-burak-yildirim-cv-27032025.pdf)
 
 - ⚡ Fun fact **def hayat(self): return 'Kodlama! 🧑‍💻**
 
