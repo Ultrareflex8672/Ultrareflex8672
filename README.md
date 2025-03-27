@@ -17,7 +17,7 @@
     </td>
     <td width="50%" valign="top">
       <h2 align="center">Certified by the ICT Agency of the Republic of Türkiye</h2>
-      <p align="center"> <a href="https://www.vektorelbilisim.com/" target="_blank"><img src="https://www.hizmetimiz.com/files/github/icons/btk_sertifika4.png" alt="Expert of Python, PHP, Git" width="90%"/></a> </p>
+      <p align="center"> <a href="https://www.vektorelbilisim.com/" target="_blank"><img src="https://www.hizmetimiz.com/files/github/icons/btk_sertifika5.png" alt="Expert of Python, PHP, Git" width="90%"/></a> </p>
       <p><b>Certificate content:</b><li>Advanced Python Programming Language (OOP, Socket Programming, Multitasking, Multiprocessing)</li><li>Web Application Development with PHP 8 (OOP, MySQL, PHP PDO, Laravel, Codeigniter)</li><li>Version Controls Git and GitHub</li><li>Advanced Network Technologies</li><li>jQuery</li></p>
     </td>
     </tr>
@@ -60,7 +60,13 @@
       <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://www.hizmetimiz.com/files/github/icons/php-original.svg" alt="php" width="40" height="40"/> </a>
     </td>
     <td>
+      <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://www.hizmetimiz.com/files/github/icons/java.svg" alt="java" width="40" height="40"/> </a>
+    </td>
+    <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.hizmetimiz.com/files/github/icons/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.hizmetimiz.com/files/github/icons/kotlin.svg" alt="jkotlin" width="40" height="40"/> </a>
     </td>
   </tr>
 </table>
