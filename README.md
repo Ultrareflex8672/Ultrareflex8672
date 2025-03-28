@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="center">Hi 👋, I'm Kemal Burak YILDIRIM from Türkiye <a href="https://www.turkiye.gov.tr/" target="_blank"><img src="https://www.hizmetimiz.com/files/github/icons/tr.png" height="22"/></a></h1>
 <h3 align="center">Passionate about full-stack development with PHP, Python, JavaScript, and MySQL 🚀</h3>
 
@@ -25,7 +21,7 @@
 <hr>
 <br>
 <h3 align="left">About Me:</h3>
-<p align="center"> <a href="https://www.ultrareflex.com" target="_blank"><img src="https://www.hizmetimiz.com/files/github/icons/IMG_20190726_115754.jpg" alt="Ultareflex8672 (Kemal Burak YILDIRIM) and Türkiye's national fighter jet KAAN" style="border-radius: 10px;max-width: 100%;height: auto;transform: scaleX(-1);"></a> </p>
+<!-- <p align="center"> <a href="https://www.ultrareflex.com" target="_blank"><img src="https://www.hizmetimiz.com/files/github/icons/IMG_20190726_115754.jpg" alt="Ultareflex8672 (Kemal Burak YILDIRIM) and Türkiye's national fighter jet KAAN" style="border-radius: 10px;max-width: 100%;height: auto;transform: scaleX(-1);"></a> </p> -->
 
 <!-- - 🔭 I’m currently working on [Pname](purl) -->
 
